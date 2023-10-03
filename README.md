@@ -1,13 +1,9 @@
 # Hi! I'm Matheus, and I like to do some code! 🖥️ 🔌 📄
 
-<div align="center">
-  <img src="https://media.giphy.com/media/VbAFrrDVGAvZu/giphy-downsized-large.gif" width="300"/>
-</div>
-
 > My code works, I swear!!
 
 ## About Me 👇
-I'm a computer technician doing my bachelor's degree in Information Systems. I'm still just a little padawan, but I'm trying to improve day by day!<br>
+I'm a computer technician doing my bachelor's degree in Information Systems. I'm trying to improve day by day!<br>
 
 ## Languages and tools 📜 🧰
 
