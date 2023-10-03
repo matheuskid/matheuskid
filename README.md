@@ -4,8 +4,8 @@
 
 ## About Me 👇
 I'm a computer technician doing my bachelor's degree in Information Systems.<br>
-I'm trying to improve day by day!<br>
-Sometimes week by week.<br>
+Trying to improve day by day!<br>
+
 
 ## Languages and tools 📜 🧰
 
