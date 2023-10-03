@@ -3,7 +3,9 @@
 > My code works, I swear!!
 
 ## About Me 👇
-I'm a computer technician doing my bachelor's degree in Information Systems. I'm trying to improve day by day!<br>
+I'm a computer technician doing my bachelor's degree in Information Systems.<br>
+I'm trying to improve day by day!<br>
+Sometimes week by week.<br>
 
 ## Languages and tools 📜 🧰
 
