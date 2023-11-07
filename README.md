@@ -4,7 +4,14 @@
 
 ## About Me 👇
 I'm a computer technician doing my bachelor's degree in Information Systems.<br>
-Trying to improve day by day<br>
+I'm 20-years old, and I'm actualy just focusing on my bachelor, but trying to do some other things whenever I have time, like:<br>
+
+  - Learn C#;
+  - Improving my English skills.
+
+I always had an interest in speaking English, as the language that I saw in games, movies, musics and other types of media.<br>
+Today, I'm into improving my pronunciation, while trying to form thoughts and phrases about everyday things while trying to speak them out loud.<br>
+Furthermore, I'll focus on English for Business, to widen my skills as a professional.
 
 ## Languages and tools 📜 🧰
 
