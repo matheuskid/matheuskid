@@ -10,7 +10,7 @@ I'm 20-years old, and I'm actualy just focusing on my bachelor, but trying to do
   - Improving my English skills.
 
 I always had an interest in speaking English, as the language that I saw in games, movies, musics and other types of media.<br>
-Today, I'm into improving my pronunciation, while trying to form thoughts and phrases about everyday things while trying to speak them out loud.<br>
+Today, I'm into improving my pronunciation, while trying to form thoughts and phrases about everyday things, also trying to speak them out loud.<br>
 Furthermore, I'll focus on English for Business, to widen my skills as a professional.
 
 ## Languages and tools 📜 🧰
