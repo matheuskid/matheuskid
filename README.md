@@ -1,7 +1,5 @@
 # Hi! I'm Matheus, and I like to do some code! 🖥️ 🔌 📄
 
-> My code works, I swear!!
-
 ## About Me 👇
 I'm a computer technician doing my bachelor's degree in Information Systems.<br>
 I'm 20-years old, and I'm actualy just focusing on my bachelor, but trying to do some other things whenever I have time, like:<br>
