@@ -2,7 +2,7 @@
 
 ## About Me 👇
 I'm a computer technician doing my bachelor's degree in Information Systems.<br>
-I'm 20-years old, and I'm actualy just focusing on my bachelor, while trying to do some other things whenever I have time.<br>
+I'm 21-years old, and I'm actualy focusing on my bachelor, while trying to do some other things whenever I have time.<br>
 
 ## Languages and tools 📜 🧰
 
