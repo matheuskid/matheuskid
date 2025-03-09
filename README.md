@@ -1,10 +1,10 @@
-# Hi! I'm Matheus, and I like to do some code! 🖥️ 🔌 📄
+# Hello! I'm Matheus, and I like to do some code! 
 
-## About Me 👇
+## About Me 
 I'm a computer technician doing my bachelor's degree in Information Systems.<br>
-I'm 21-years old, and I'm actualy focusing on my bachelor, while trying to do some other things whenever I have time.<br>
+I'm 21-years old, and I'm actualy focusing on my bachelor.<br>
 
-## Languages and tools 📜 🧰
+## Languages and tools
 
 <div align = "center">
   
