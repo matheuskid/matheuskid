@@ -1,8 +1,9 @@
-# Hello! I'm Matheus, and I like to do some code! 
+# Hello! I'm Matheus, and I like coding! 
 
 ## About Me 
-I'm a computer technician doing my bachelor's degree in Information Systems.<br>
-I'm 21-years old, and I'm actualy focusing on my bachelor.<br>
+📚 Cursando Sistemas de Informação na UFC Quixadá<br>
+👨‍💻 Desenvolvedor Backend<br>
+🌱 Amo natureza e coisas verdes<br>
 
 ## Languages and tools
 
