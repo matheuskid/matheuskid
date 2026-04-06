@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Matheus!
 
 📚 Cursando Sistemas de Informação na UFC Quixadá <br>
-👨‍💻 Desenvolvedor Backend <br>
+👨‍💻 Desenvolvedor FullStack <br>
 🤖 Inteligência Artificial
 
 ## 🛠️ Tecnologias e Ferramentas
