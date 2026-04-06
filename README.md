@@ -28,7 +28,7 @@
   <a href="mailto:matheuskindrow@gmail.com" style="color: inherit; text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/matheus-dos-santos-mendes-275b04210/" target="_blank" style="color: inherit; text-decoration: none;">
+  <a href="https://www.linkedin.com/in/matheus-mendes-275b04210/" target="_blank" style="color: inherit; text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
